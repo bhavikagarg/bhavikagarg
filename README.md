@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavikagarg" alt="bhavikagarg" /></a> </p>
 
-- 🌱 I’m currently learning **React + API + Python + ML**
+- 🌱 I’m currently learning **Digital Marketing + Python + ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhavikagarg](https://github.com/bhavikagarg)
 
