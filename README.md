@@ -1,31 +1,86 @@
-<h1 align="center">Hi 👋, I'm Bhavika Garg</h1>
-<h3 align="center">A computer science engineering undergraduate student with a profound interest in Data Science</h3>
+# Hi, I'm Bhavika Garg 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavikagarg&label=Profile%20views&color=0e75b6&style=flat" alt="bhavikagarg" /> </p>
+SAP Basis Consultant with experience across SAP administration, AI/ML, Data Science, backend systems, and web development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavikagarg" alt="bhavikagarg" /></a> </p>
+I enjoy building practical, scalable solutions — whether that’s automating workflows, analyzing data, deploying intelligent models, or improving system performance.
 
-- 🌱 I’m currently learning **Digital Marketing + Python + ML**
+Currently focused on:
+- SAP Basis administration & automation
+- Machine Learning and AI applications
+- Data analytics and backend systems
+- Python-based tools and workflow optimization
+- Remote collaboration and freelance projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/bhavikagarg](https://github.com/bhavikagarg)
+---
 
-- 📝 Research papers have been published in IEEE. [https://ieeexplore.ieee.org/author/240109252485689](https://ieeexplore.ieee.org/author/240109252485689)
+## What I Work With
 
-- 📫 How to reach me **bhavyaj103@gmail.com**
+### SAP & Infrastructure
+- SAP Basis
+- System Monitoring
+- SAP Administration
+- Performance Optimization
+- User & Transport Management
 
-- ⚡ Fun fact **I do not like lazy people, though I am myself lazy person:)**
+### Data Science & AI/ML
+- Python
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- OpenCV
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gargbhavika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gargbhavika" height="30" width="40" /></a>
-<a href="https://instagram.com/__.bhavvyaa.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.bhavvyaa.__" height="30" width="40" /></a>
-<a href="https://medium.com/@bhavyaj103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhavyaj103" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@engineerslife6229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@engineerslife6229" height="30" width="40" /></a>
-</p>
+### Development
+- Java
+- SQL
+- MySQL
+- HTML/CSS
+- JavaScript
+- Web Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavikagarg&show_icons=true&locale=en&layout=compact" alt="bhavikagarg" /></p>
+## Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavikagarg&show_icons=true&locale=en" alt="bhavikagarg" /></p>
+### AI/ML Projects
+Worked on machine learning models and data-driven applications focused on prediction, automation, and intelligent decision-making.
+
+### SAP Automation & Administration
+Built and optimized workflows related to SAP Basis administration, monitoring, and system operations.
+
+### Data Analytics Projects
+Performed data cleaning, visualization, and analysis using Python and SQL to generate actionable insights from structured datasets.
+
+### Web Applications
+Developed responsive web-based applications with clean UI and backend integration.
+
+---
+
+## Research & Publications
+
+- IEEE-published research work in emerging technology and computing domains.
+- Interested in applied AI, intelligent systems, and real-world problem solving through technology.
+
+---
+
+## Currently Exploring
+
+- AI-powered automation
+- MLOps & model deployment
+- Scalable backend systems
+- Cloud and enterprise infrastructure
+- Advanced SAP administration workflows
+
+---
+
+## Let's Connect
+
+- LinkedIn: https://linkedin.com/in/gargbhavika
+- Medium: https://medium.com/@bhavyaj103
+- Email: bhavyaj103@gmail.com
+
+I’m open to:
+- Remote opportunities
+- Freelance projects
+- Technical collaborations
+- AI/ML and SAP-based work
